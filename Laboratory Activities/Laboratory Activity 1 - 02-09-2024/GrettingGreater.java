@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class GreaterGreater {
+class GettingGreater {
 
     public static void main(String[] args) {
         Scanner chValue = new Scanner(System.in);
