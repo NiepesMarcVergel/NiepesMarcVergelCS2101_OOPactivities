@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class SongDetails {
+class Gettinginputs {
     public static void main(String[] args) {
         // Make the object use in getting users input
         Scanner scanner = new Scanner(System.in);
